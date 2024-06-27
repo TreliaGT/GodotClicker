@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dbj7caiw22trr"]
+
+[node name="miningparticles" type="CPUParticles2D"]
+lifetime = 2.0
+emission_shape = 3
+emission_rect_extents = Vector2(56, 41)
